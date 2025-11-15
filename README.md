@@ -29,7 +29,7 @@ How can we identify where users disengage in the sales funnel and implement prod
 
 By analyzing category performance, regional breakdowns, and seasonal trends, we can pinpoint friction points and deploy targeted interventions from UX copy changes to strategic promotions that turn interest into revenue.
 
-[Sales by State.pdf](https://github.com/user-attachments/files/23564052/Sales.by.State.pdf)
+![Image](https://github.com/user-attachments/assets/a08aecb0-a083-4c90-b1de-6dd7df48e4b5)
  
 ### Methodology
 
@@ -53,7 +53,7 @@ Key findings from the analysis include:
 
 •	Seasonal trends suggest strong Q4 performance and mid-year slowdowns
 
- [accessory.pdf](https://github.com/user-attachments/files/23564070/accessory.pdf)
+ ![Image](https://github.com/user-attachments/assets/f8f7dae4-30f6-4029-bddf-312ab49bf089)
 
 Using simulations, we found that:
 
