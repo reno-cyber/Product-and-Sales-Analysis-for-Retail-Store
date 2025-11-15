@@ -53,7 +53,7 @@ Key findings from the analysis include:
 
 •	Seasonal trends suggest strong Q4 performance and mid-year slowdowns
 
- ![Screenshot 2025-11-10 at 5 33 24 PM](https://github.com/reno-cyber/Product-and-Sales-Analysis-for-Retail-Store/blob/main/accessory.pdf)
+ ![alt text](accessory.pdf)
 
 Using simulations, we found that:
 
